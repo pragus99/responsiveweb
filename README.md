@@ -1,4 +1,4 @@
-# responsiveweb
+# Responsive Web
 
 Creating this complete bootstrap responsive website Using Bootstrap/HTML/CSS/JS
 I'm using bootstrap to glorify the website and make it responsive. I also add some custom style to make it more attractive. The navigation menu, website title, and different sections where I have feature section, pricing section, team 
